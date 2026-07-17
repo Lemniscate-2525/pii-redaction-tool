@@ -1,0 +1,10 @@
+presidio-analyzer
+presidio-anonymizer
+faker
+python-docx
+spacy
+regex
+pandas
+scikit-learn
+tqdm
+Faker

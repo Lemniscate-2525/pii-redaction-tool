@@ -1,0 +1,13 @@
+venv/
+__pycache__/
+*.pyc
+
+output/*
+!output/.gitkeep
+
+.env
+
+.idea/
+.vscode/settings.json
+
+*.log

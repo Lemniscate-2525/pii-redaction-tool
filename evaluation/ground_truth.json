@@ -1,0 +1,54 @@
+{
+  "document": "Red Herring Prospectus.docx",
+  "sample": "Statutory Auditors and Book Running Lead Managers",
+  "entities": [
+    {
+      "text": "Kirtane & Pandit LLP",
+      "type": "ORGANIZATION"
+    },
+    {
+      "text": "Parag Pansare",
+      "type": "PERSON"
+    },
+    {
+      "text": "parag.pansare@kirtanepandit.com",
+      "type": "EMAIL_ADDRESS"
+    },
+    {
+      "text": "+91 20 6729 5100",
+      "type": "PHONE_NUMBER"
+    },
+    {
+      "text": "ICICI Securities Limited",
+      "type": "ORGANIZATION"
+    },
+    {
+      "text": "Kishan Rastogi",
+      "type": "PERSON"
+    },
+    {
+      "text": "Abhijit Diwan",
+      "type": "PERSON"
+    },
+    {
+      "text": "ksh@icicisecurities.com",
+      "type": "EMAIL_ADDRESS"
+    },
+    {
+      "text": "+91 22 6807 7100",
+      "type": "PHONE_NUMBER"
+    },
+    {
+      "text": "MUFG Intime India Private Limited",
+      "type": "ORGANIZATION"
+    },
+    {
+      "text": "Shanti Gopalkrishnan",
+      "type": "PERSON"
+    },
+    {
+      "text": "+91 81081 14949",
+      "type": "PHONE_NUMBER"
+    }
+  ]
+}
